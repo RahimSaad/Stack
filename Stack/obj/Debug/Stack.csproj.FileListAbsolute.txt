@@ -1,0 +1,14 @@
+E:\_my Coding\Algorithms\Stack\Stack\bin\Debug\Stack.exe.config
+E:\_my Coding\Algorithms\Stack\Stack\bin\Debug\Stack.exe
+E:\_my Coding\Algorithms\Stack\Stack\bin\Debug\Stack.pdb
+E:\_my Coding\Algorithms\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+E:\_my Coding\Algorithms\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+E:\_my Coding\Algorithms\Stack\Stack\obj\Debug\Stack.exe
+E:\_my Coding\Algorithms\Stack\Stack\obj\Debug\Stack.pdb
+E:\_my Coding\Data Structure\Stack\Stack\bin\Debug\Stack.exe.config
+E:\_my Coding\Data Structure\Stack\Stack\bin\Debug\Stack.exe
+E:\_my Coding\Data Structure\Stack\Stack\bin\Debug\Stack.pdb
+E:\_my Coding\Data Structure\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+E:\_my Coding\Data Structure\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+E:\_my Coding\Data Structure\Stack\Stack\obj\Debug\Stack.exe
+E:\_my Coding\Data Structure\Stack\Stack\obj\Debug\Stack.pdb
